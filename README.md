@@ -1,3 +1,26 @@
+# Personal Information
+- Name     : Muhammad Roihan
+- Position : Full Stack Developer
+- Last Update : 8 October 2024
+- Contact  : 089695961496
+
+# Project Information
+- Form Aplication with connection to MySQL
+- Filter for table list
+
+# How to run App
+Do migration
+```Bash
+php artisan migrate
+```
+Run The App
+```Bash
+php artisan serve
+```
+Optional
+input database data with SQL Dump
+
+## Laravel Information
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
